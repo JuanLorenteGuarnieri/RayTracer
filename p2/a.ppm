@@ -1,0 +1,9 @@
+P3 #format
+# feep.ppm
+#MAX=18.35
+4 4 #width and height
+15 #color resolution (max)
+0 0 0   0 0 0   0 0 0   15 0 15 
+0 0 0   0 15 7  0 0 0   0 0 0 
+0 0 0   0 0 0   0 15 7  0 0 0 
+15 0 15 0 0 0   0 0 0   0 0 0 
